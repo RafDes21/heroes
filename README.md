@@ -1,3 +1,3 @@
 # HEROES
 
-## Israel 38 CABA Argentina
+## Israel 38 CABA
